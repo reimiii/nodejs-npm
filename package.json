@@ -28,5 +28,8 @@
     "url": "https://github.com/reimiii/nodejs-npm/issues"
   },
   "homepage": "https://github.com/reimiii/nodejs-npm#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
 }
