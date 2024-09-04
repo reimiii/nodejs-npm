@@ -4,6 +4,10 @@
   "description": "Learn NPM nodejs",
   "main": "index.js",
   "scripts": {
+    "run": "node index.js",
+    "prestart": "echo 'pre start'",
+    "start": "node index.js",
+    "poststart": "echo 'post start'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
