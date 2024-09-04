@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-npm",
+  "version": "1.0.0",
+  "description": "Learn NPM nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reimiii/nodejs-npm.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "franxxcode"
+  ],
+  "author": "Hilmi AM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reimiii/nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/reimiii/nodejs-npm#readme"
+}
