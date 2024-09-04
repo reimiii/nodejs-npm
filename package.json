@@ -2,7 +2,10 @@
   "name": "nodejs-npm",
   "version": "1.0.0",
   "description": "Learn NPM nodejs",
-  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./write": "./write.js"
+  },
   "scripts": {
     "run": "node index.js",
     "prestart": "echo 'pre start'",
